@@ -7,7 +7,7 @@ import (
 )
 
 const numTrials = 1000000 // Number of trials
-const paraNeeded = 500    // Number of paralysis procs needed to succeed
+const paraNeeded = 177    // Number of paralysis procs needed to succeed
 const attNeeded = 231     // Number of total attacks needed
 
 // Could be calculated while running but it's quicker to just do an array lookup
